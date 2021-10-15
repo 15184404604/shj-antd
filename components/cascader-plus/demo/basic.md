@@ -7,8 +7,6 @@ title:
 
 ## zh-CN
 
-级联选择器能多选
-
 ```jsx
 import { CascaderPlus } from 'shj-antd';
 

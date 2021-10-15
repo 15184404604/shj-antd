@@ -1,6 +1,6 @@
 {
   "name": "shj-antd",
-  "version": "1.0.2",
+  "version": "1.0.8",
   "description": "基于antd源码的二次封装",
   "title": "Shj Antd",
   "keywords": [
@@ -45,7 +45,7 @@
     "predist": "npm run version",
     "presite": "npm run version",
     "color-less": "node ./scripts/generate-color-less",
-    "compile": "npm run clean && antd-tools run compile",
+    "compile": "antd-tools run compile",
     "changelog": "node ./scripts/print-changelog",
     "predeploy": "antd-tools run clean && npm run site && cp CNAME _site && npm run site:test",
     "deploy": "bisheng gh-pages --push-only --dotfiles",

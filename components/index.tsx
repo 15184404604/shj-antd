@@ -222,3 +222,5 @@ export { default as version } from './version';
 export { default as ButtonPlus } from './button-plus';
 
 export { default as CascaderPlus } from './cascader-plus';
+
+export { default as SelectTime } from './select-time';

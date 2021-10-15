@@ -1,9 +1,8 @@
 ---
 category: Components
-cols: 2
+cols: 3
 title: CascaderPlus
-subtitle: 级联选择
-cover: https://gw.alipayobjects.com/zos/alicdn/UdS8y8xyZ/Cascader.svg
+subtitle: 级联选择多选
 ---
 
-级联选择框多选。
+级联选择框。
